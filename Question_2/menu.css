@@ -1,0 +1,43 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #a510109c;
+    color: #000000;
+    margin: 0;
+    padding: 20px;
+}
+
+.menu {
+    max-width: 900px;
+    margin: auto;
+}
+
+.menu h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+.type h2 {
+    background-color: #000000c0;
+    color: #ffffff;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.price {
+    color: #000000;
+}
+
+header {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #000000;
+    padding-top: 0px;
+    text-align: center;
+    padding-bottom: 0px;
+}
